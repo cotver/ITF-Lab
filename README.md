@@ -1,3 +1,3 @@
 # ITF-Lab 2018
 ## Author
-* ธนโชติ จิรกิตติ์สกุล 61070069
+* Tanachot Chirakitsakul 61070069
